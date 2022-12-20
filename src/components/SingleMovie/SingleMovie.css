@@ -1,0 +1,9 @@
+.mainDiv{
+    display: flex;
+    width: auto;
+    justify-content: left;
+    flex-wrap: wrap;
+
+
+}
+
